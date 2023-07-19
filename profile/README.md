@@ -6,7 +6,7 @@
 ![image](https://github.com/emoshield/.github/assets/33739448/aece9105-9f71-4886-be11-6b51e5a72be3)
 
 감정노동자를 위한 Chat GPT활용 음성 필터링 서비스 emoshield입니다.  
-**시연 영상 링크**
+**시연 영상 링크**  
 [![emoshield](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/_7KutXPRg-g)
 
 ### 배경
