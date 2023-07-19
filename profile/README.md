@@ -3,8 +3,7 @@
 
 ## 개요
 
-![image](https://github.com/emoshield/.github/assets/33739448/6e5b6c25-9beb-4fe8-aa1b-1b2301934b61)
-
+![image](https://github.com/emoshield/.github/assets/33739448/aece9105-9f71-4886-be11-6b51e5a72be3)
 
 감정노동자를 위한 Chat GPT활용 음성 필터링 서비스 emoshield입니다.
 
