@@ -5,8 +5,9 @@
 
 ![image](https://github.com/emoshield/.github/assets/33739448/aece9105-9f71-4886-be11-6b51e5a72be3)
 
-감정노동자를 위한 Chat GPT활용 음성 필터링 서비스 emoshield입니다.
-https://youtu.be/_7KutXPRg-g
+감정노동자를 위한 Chat GPT활용 음성 필터링 서비스 emoshield입니다.  
+[![emoshield]([http://cfile24.uf.tistory.com/image/2444873B57E257821FA2AE](https://youtu.be/_7KutXPRg-g))]
+
 
 ### 배경
 
