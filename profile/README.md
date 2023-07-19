@@ -11,7 +11,7 @@
 
 emoshield는 최근 감정노동자가 받는 심리적 스트레스의 심각성에 착안하여 이러한 문제를 해결하고자 시작된 프로젝트입니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d73e7b8-686e-4f30-8df1-d551f7b1e7e0/Untitled.png)
+![image](https://github.com/emoshield/.github/assets/33739448/fffcdcbf-4722-4891-bf69-06bc214303db)
 
 감정노동자 중 상담사의 불안한 심리와 스트레스는 상담사 자신과 주변에 큰 영향을 끼칠 수 있습니다.
 
@@ -22,8 +22,7 @@ emoshield는 최근 감정노동자가 받는 심리적 스트레스의 심각�
 - **회사**
     - 상담사의 대응은 콜센터의 강담 품질과 직결되며 개인을 넘어 회사의 문제가 될 수 있습니다. → **장기적인 회사의 손해**
 
-![image](https://github.com/emoshield/.github/assets/33739448/fffcdcbf-4722-4891-bf69-06bc214303db)
-
+![image](https://github.com/emoshield/.github/assets/33739448/40f31f7c-7478-4ad9-a0bf-c4e2c7ae6a7d)
 
 기존에도 상담사를 보호하기 위한 제도는 있지만 이러한 제도가 감정노동자를 보호하는데에 실효성이 있는지 검증되지 않고 있고 여러 요인을 고려했을 때 대처 매뉴얼을 통해 고객에게 강경 대응하는 것은 현실적으로 어렵다는 문제가 있었습니다.
 
@@ -40,12 +39,14 @@ emoshield는 최근 감정노동자가 받는 심리적 스트레스의 심각�
 2. 텍스트로 추출한 문장에 있는 비속어의 **블러 처리 선택 기능**을 제공한다.
 - **I.A**
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f9be6104-b9f5-456e-a8aa-1f7b6a12ddea/Untitled.png)
+    ![image](https://github.com/emoshield/.github/assets/33739448/236546dd-a2fd-41fa-af59-1b2ed2312444)
+
     
 
 **고객 페이지**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5625e5a4-a8be-45e4-84fe-7d3bdfdf0afa/Untitled.png)
+![image](https://github.com/emoshield/.github/assets/33739448/c536c10c-ffd1-4c23-878a-0c2145b1ff9e)
+
 
 - 카테고리 별 회사 목록 확인 및 연결 서비스
     - 고객은 추가적인 탐색 없이 한번에 원하는 회사에 대한 정보를 편리하게 얻을 수 있습니다.
@@ -53,19 +54,21 @@ emoshield는 최근 감정노동자가 받는 심리적 스트레스의 심각�
     - 자주 상담하는 회사를 따로 모아 언제나 쉽고 편리하게 상담을 연결할 수 있습니다.
     - 카테고리 정렬을 통해 효율적인 문의 처리를 할 수 있습니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d89f1ac6-0d99-4599-8dc1-de4379839ecc/Untitled.png)
+![image](https://github.com/emoshield/.github/assets/33739448/bec6ef5b-70b2-4f4e-a6f4-b73594e9cad8)
+
 
 - 회사 선정 후 직접 바로 전화 연결 기능
     - 고객은 따로 전화 키패드 입력 없이 연결을 할 수 있습니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/70b5783f-2460-4275-97a7-98b0f3f92cfa/Untitled.png)
+![image](https://github.com/emoshield/.github/assets/33739448/91851d5c-2b7f-4b27-80e8-54a49f7421ca)
+
 
 - 불친절도에 따른 고객의 등급과 정보 확인 기능
     - 상담사는 상담을 하기 전 고객 정보를 미리 파악할 수 있고 고객의 성향, 과거의 기록에 따라 한 번에 어떤 성향의 고객인지 쉽게 파악이 가능합니다.
 
 **상담원 페이지**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/06ce4176-2a66-46a7-9040-f0ee6d1eaa94/Untitled.png)
+![image](https://github.com/emoshield/.github/assets/33739448/a3e78716-572d-4955-9df3-96c26951c837)
 
 - 음성 사전 필터링 및 핵심 내용 요약 기능 제공
     - 고객이 음성 필터링 유/무를 선택하고 필터링 시 원본 음성에 대한 텍스트 블러처리가 됩니다.
@@ -77,20 +80,22 @@ emoshield는 최근 감정노동자가 받는 심리적 스트레스의 심각�
 - **ChatGPT 프롬프트**
     - ChatGPT API와 프롬프트 프로그래밍으로 문장에서 비속어를 파악하여 지우고 핵심 내용만을 제공하도록 학습
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b438c159-b927-433d-ae9c-6187b6f66ac3/Untitled.png)
+    ![image](https://github.com/emoshield/.github/assets/33739448/ac0458e1-6da9-450e-bd0a-8f78c1f3da87)
+
     
-- 아키텍쳐
+- **아키텍쳐**
     - WebRTC를 통한 실시간 음성 통화를 제공합니다.
     - STT API를 통해 음성을 텍스트로 변환하여 통화 내용을 실시간으로 필터링해 상담원에게 제공합니다.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bcf1f426-f2cd-4e10-90f8-5b9452aa03a4/Untitled.png)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2f2d180e-8777-4b37-8d33-90fe94296703/Untitled.png)
+    ![image](https://github.com/emoshield/.github/assets/33739448/44e275a3-d31b-448e-bb8a-aaca2d8135fd)
+
+    ![image](https://github.com/emoshield/.github/assets/33739448/7c75b7dd-0254-44f8-90e8-44b858e6c042)
     
 - **Infra**
     - AWS, 테라폼을 이용해 서비스를 배포했습니다.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f35e995f-9b7d-4a04-a99e-07f76bad0af1/Untitled.png)
+    ![image](https://github.com/emoshield/.github/assets/33739448/44ad10e1-6f37-40b1-b77e-014f275b33ff)
+
     
 
 ### 기대효과 및 결론
