@@ -1,14 +1,10 @@
 # emoshield
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
-<img src="https://img.shields.io/badge/terraform-232F3E?style=for-the-badge&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"> <img src="https://img.shields.io/badge/terraform-232F3E?style=for-the-badge&logo=terraform&logoColor=white">
 
 ## 개요
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78d8ccba-8cac-4dd1-97bd-cfbdaaac0656/Untitled.png)
+![image](https://github.com/emoshield/.github/assets/33739448/6e5b6c25-9beb-4fe8-aa1b-1b2301934b61)
+
 
 감정노동자를 위한 Chat GPT활용 음성 필터링 서비스 emoshield입니다.
 
@@ -27,7 +23,8 @@ emoshield는 최근 감정노동자가 받는 심리적 스트레스의 심각�
 - **회사**
     - 상담사의 대응은 콜센터의 강담 품질과 직결되며 개인을 넘어 회사의 문제가 될 수 있습니다. → **장기적인 회사의 손해**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e2aafbee-95c5-4c67-9537-3fe948739998/Untitled.png)
+![image](https://github.com/emoshield/.github/assets/33739448/fffcdcbf-4722-4891-bf69-06bc214303db)
+
 
 기존에도 상담사를 보호하기 위한 제도는 있지만 이러한 제도가 감정노동자를 보호하는데에 실효성이 있는지 검증되지 않고 있고 여러 요인을 고려했을 때 대처 매뉴얼을 통해 고객에게 강경 대응하는 것은 현실적으로 어렵다는 문제가 있었습니다.
 
